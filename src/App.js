@@ -6,7 +6,7 @@ import Confetti from "react-confetti";
 export default function App() {
   return (
     <div className="App">
-      <img src="connect4logo.png"
+      <img src="https://raw.githubusercontent.com/guryaniv/reactConnect4/master/src/connect4logo.png"
         alt="connect4 logo"
         width="50%"
       />
